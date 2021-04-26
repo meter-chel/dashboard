@@ -2177,7 +2177,8 @@
   "tags": [
     "rabbitmq-prometheus",
     "rabbitmq",
-    "prometheus"
+    "prometheus",
+    "rabbitmq-exporter"
   ],
   "templating": {
     "list": [
