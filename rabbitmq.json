@@ -2184,8 +2184,8 @@
       {
         "allValue": null,
         "current": {
-          "text": "10.8.0.3:9419",
-          "value": "10.8.0.3:9419"
+          "text": "rabbitmq-exporter:9419",
+          "value": "rabbitmq-exporter:9419"
         },
         "datasource": "Prometheus",
         "definition": "label_values(rabbitmq_running, instance)",
